@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Fjalla One";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/fjallaone_n4.e3b041743e726c1cef3b3ab9921402e93cd8f733.woff2") format("woff2"), url("../fonts/fjallaone_n4.bed9b46f46027aa055f567c064cca454e8db0b22.woff") format("woff"); }
+
+@font-face {
+  font-family: "Josefin Sans";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/josefinsans_n4.c8300d95fd4ce72542a6efba9c682da40d144fba.woff2") format("woff2"), url("../fonts/josefinsans_n4.ed7230a86e75b34b997bd12a5e1b87fcaf7104d8.woff") format("woff"); }
+
+@font-face {
+  font-family: "Josefin Sans";
+  font-weight: 700;
+  font-style: normal;
+  src: url("../fonts/josefinsans_n7.ba75738508cdf6cb75183ab984567749245418ef.woff2") format("woff2"), url("../fonts/josefinsans_n7.a2c4634c9b4e7a4bf49a23a7b0a2f41d6afbfc1a.woff") format("woff"); }
+
+@font-face {
+  font-family: "Josefin Sans";
+  font-weight: 700;
+  font-style: normal;
+  src: url("../fonts/josefinsans_n7.ba75738508cdf6cb75183ab984567749245418ef.woff2") format("woff2"), url("../fonts/josefinsans_n7.a2c4634c9b4e7a4bf49a23a7b0a2f41d6afbfc1a.woff") format("woff"); }
+
+@font-face {
+  font-family: "Josefin Sans";
+  font-weight: 400;
+  font-style: italic;
+  src: url("../fonts/josefinsans_i4.56d7623f5d1535347250bd4064e39a4fbc2d9d33.woff2") format("woff2"), url("../fonts/josefinsans_i4.cab7f3811c289dea6945e14f3d5f449dc3b667b2.woff") format("woff"); }
+
+@font-face {
+  font-family: "Josefin Sans";
+  font-weight: 700;
+  font-style: italic;
+  src: url("../fonts/josefinsans_i7.bbab84b25bea8fdcfe26448c5bd6848af03f4dc2.woff2") format("woff2"), url("../fonts/josefinsans_i7.a8b1f643db12e4a272a3dc0436972db610244801.woff") format("woff"); }
